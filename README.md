@@ -1,0 +1,1 @@
+The skeleton and base for small html/css website.
